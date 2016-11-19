@@ -1,3 +1,3 @@
 # README for deneme
 
-This is a hello-world project to GitHub
+#This is a hello-world project to GitHub
